@@ -7,5 +7,6 @@ This is a desktop app to help locate great running areas in San Diego
 [Database Diagram](https://github.com/topher-chris/RunApp/blob/master/Test%20Planning%26RTM.pdf)
 
 [Requirements and Use Cases](https://github.com/topher-chris/RunApp/blob/master/RequirementsAndUseCases.pdf)
+
 [Test Planning & Traceability Matrix (RTM)](https://github.com/topher-chris/RunApp/blob/master/Test%20Planning%26RTM.pdf)
 
