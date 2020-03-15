@@ -8,7 +8,12 @@ This is a desktop app to help locate great running areas in San Diego
 
 [Requirements and Use Cases](https://github.com/topher-chris/RunApp/blob/master/RequirementsAndUseCases.pdf)
 
+[Wire Frame](https://github.com/topher-chris/RunApp/blob/master/WireFrame%20Page-1.jpg)
+
+[Wire Frame2](https://github.com/topher-chris/RunApp/blob/master/WireFram-Page-2.jpg)
+
 [Use Case Diagram (UML)](https://github.com/topher-chris/RunApp/blob/master/Use-Case%20Diagram%20(UML).png)
 
 [Test Planning & Traceability Matrix (RTM)](https://github.com/topher-chris/RunApp/blob/master/Test%20Planning%26RTM.pdf)
 
+[Protoype](https://github.com/topher-chris/RunApp/blob/master/Prototype.html)
