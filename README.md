@@ -17,3 +17,5 @@ This is a desktop app to help locate great running areas in San Diego
 [Test Planning & Traceability Matrix (RTM)](https://github.com/topher-chris/RunApp/blob/master/Test%20Planning%26RTM.pdf)
 
 [Protoype](https://github.com/topher-chris/RunApp/blob/master/Prototype.html)
+
+[Prototype README](https://github.com/topher-chris/RunApp/blob/master/Prototype%20README)
