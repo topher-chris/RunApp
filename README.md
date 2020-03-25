@@ -21,8 +21,17 @@ This is a desktop app to help locate great running areas in San Diego
 [Prototype README](https://github.com/topher-chris/RunApp/blob/master/Prototype%20README)
 
 
+
+
+
 ![alt text](https://github.com/topher-chris/RunApp/blob/master/Database%20Diagram.jpg)
 
 ![alt text](https://github.com/topher-chris/RunApp/blob/master/RequirementsAndUseCases.pdf)
 
 ![alt text](https://github.com/topher-chris/RunApp/blob/master/Use-Case%20Diagram%20(UML).png)
+
+
+
+![alt text](https://github.com/topher-chris/RunApp/blob/master/WireFrame%20Page-1.jpg)
+
+![alt text](https://github.com/topher-chris/RunApp/blob/master/WireFram-Page-2.jpg)
