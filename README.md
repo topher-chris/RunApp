@@ -7,6 +7,8 @@ This app was created because there was a need to locate suitable running locatio
 
 [Database Diagram](https://github.com/topher-chris/RunApp/blob/master/Database%20Diagram.jpg)
 
+[Database Diagram](https://github.com/topher-chris/RunApp/blob/master/User%20Stories.pdf)
+
 [Requirements and Use Cases](https://github.com/topher-chris/RunApp/blob/master/RequirementsAndUseCases.pdf)
 
 [Wire Frame](https://github.com/topher-chris/RunApp/blob/master/WireFrame%20Page-1.jpg)
@@ -25,6 +27,8 @@ This app was created because there was a need to locate suitable running locatio
 
 
 ![alt text](https://github.com/topher-chris/RunApp/blob/master/Database%20Diagram.jpg)
+
+![alt text](https://github.com/topher-chris/RunApp/blob/master/User%20Stories.pdf)
 
 ![alt text](https://github.com/topher-chris/RunApp/blob/master/RequirementsAndUseCases.pdf)
 
