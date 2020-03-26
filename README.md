@@ -78,4 +78,8 @@ ___
 ![alt text](https://github.com/topher-chris/RunApp/blob/master/Prototype2.PNG)
 ___
 
+![alt text](https://github.com/topher-chris/RunApp/blob/master/Prototype3.PNG)
+
+___
+
 ![alt text](https://github.com/topher-chris/RunApp/blob/master/MainPage.PNG)
