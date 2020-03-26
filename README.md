@@ -27,6 +27,8 @@ This app was created because there was a need to locate suitable running locatio
 
 [Test Requirements](https://github.com/topher-chris/RunApp/blob/master/Test%20Requirements.PNG)
 
+[Test Table](https://github.com/topher-chris/RunApp/blob/master/Test%20Table.PNG)
+
 
 
 # Entity Relational Diagram
@@ -63,6 +65,7 @@ ___
 
 ___
 # Test Table
+![alt text](https://github.com/topher-chris/RunApp/blob/master/Test%20Table.PNG)
 
 ___
 # Prototype
