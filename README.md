@@ -5,21 +5,17 @@ This app was created because there was a need to locate suitable running locatio
 # Table of Contents
 
 
-[Database Diagram](https://github.com/topher-chris/RunApp/blob/master/Database%20Diagram.jpg)
+1.[Database Diagram](https://github.com/topher-chris/RunApp/blob/master/Database%20Diagram.jpg)
 
 [User Stories](https://github.com/topher-chris/RunApp/blob/master/User%20Stories.PNG)
 
 [Use Cases](https://github.com/topher-chris/RunApp/blob/master/Use%20Cases.PNG)
 
-[Use Case Diagram (UML)](https://github.com/topher-chris/RunApp/blob/master/Use-Case%20Diagram%20(UML).png)
+[Use Case Diagram](https://github.com/topher-chris/RunApp/blob/master/Use-Case%20Diagram%20(UML).png)
 
 [Requirements](https://github.com/topher-chris/RunApp/blob/master/Requirements.PNG)
 
 [Wire Frame](https://github.com/topher-chris/RunApp/blob/master/WireFrame%20Page-1.jpg)
-
-[Wire Frame2](https://github.com/topher-chris/RunApp/blob/master/WireFram-Page-2.jpg)
-
-[Test Planning & Traceability Matrix (RTM)](https://github.com/topher-chris/RunApp/blob/master/Test%20Planning%26RTM.pdf)
 
 [Test Requirements](https://github.com/topher-chris/RunApp/blob/master/Test%20Requirements.PNG)
 
