@@ -25,6 +25,8 @@ This app was created because there was a need to locate suitable running locatio
 
 [Prototype README](https://github.com/topher-chris/RunApp/blob/master/Prototype%20README)
 
+[Test Requirements](https://github.com/topher-chris/RunApp/blob/master/Test%20Requirements.PNG)
+
 
 
 # Entity Relational Diagram
@@ -55,9 +57,9 @@ ___
 ![alt text](https://github.com/topher-chris/RunApp/blob/master/WireFram-Page-2.jpg)
  
 ___
-# Requirements Table
+# Test Requirements 
 
-![alt text](https://github.com/topher-chris/RunApp/blob/master/Test%20Planning%26RTM.pdf)
+![alt text](https://github.com/topher-chris/RunApp/blob/master/Test%20Requirements.PNG)
 
 ___
 # Test Table
