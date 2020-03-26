@@ -27,6 +27,8 @@ This app was created because there was a need to locate suitable running locatio
 
 [Protoype](https://github.com/topher-chris/RunApp/blob/master/Prototype.html)
 
+[](https://github.com/topher-chris/RunApp/blob/master/MainPage.PNG)
+
 
 
 
@@ -71,3 +73,7 @@ ___
 # Prototype
 
 ![alt text](https://github.com/topher-chris/RunApp/blob/master/Prototype1.PNG)
+
+___
+
+![alt text](https://github.com/topher-chris/RunApp/blob/master/MainPage.PNG)
