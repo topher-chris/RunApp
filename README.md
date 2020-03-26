@@ -21,13 +21,13 @@ This app was created because there was a need to locate suitable running locatio
 
 [Test Planning & Traceability Matrix (RTM)](https://github.com/topher-chris/RunApp/blob/master/Test%20Planning%26RTM.pdf)
 
-[Protoype](https://github.com/topher-chris/RunApp/blob/master/Prototype.html)
-
-[Prototype README](https://github.com/topher-chris/RunApp/blob/master/Prototype%20README)
-
 [Test Requirements](https://github.com/topher-chris/RunApp/blob/master/Test%20Requirements.PNG)
 
 [Test Table](https://github.com/topher-chris/RunApp/blob/master/Test%20Table.PNG)
+
+[Protoype](https://github.com/topher-chris/RunApp/blob/master/Prototype.html)
+
+
 
 
 
