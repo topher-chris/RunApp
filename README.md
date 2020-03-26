@@ -25,8 +25,10 @@ This app was created because there was a need to locate suitable running locatio
 
 
 ![alt text](https://github.com/topher-chris/RunApp/blob/master/Database%20Diagram.jpg)
+___
 
 ![alt text](https://github.com/topher-chris/RunApp/blob/master/User%20Stories.PNG)
+___
 
 
 
