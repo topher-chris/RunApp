@@ -7,21 +7,21 @@ This app was created because there was a need to locate suitable running locatio
 
 1.[Database Diagram](https://github.com/topher-chris/RunApp/blob/master/Database%20Diagram.jpg)
 
-[User Stories](https://github.com/topher-chris/RunApp/blob/master/User%20Stories.PNG)
+2.[User Stories](https://github.com/topher-chris/RunApp/blob/master/User%20Stories.PNG)
 
-[Use Cases](https://github.com/topher-chris/RunApp/blob/master/Use%20Cases.PNG)
+3.[Use Cases](https://github.com/topher-chris/RunApp/blob/master/Use%20Cases.PNG)
 
-[Use Case Diagram](https://github.com/topher-chris/RunApp/blob/master/Use-Case%20Diagram%20(UML).png)
+4.[Use Case Diagram](https://github.com/topher-chris/RunApp/blob/master/Use-Case%20Diagram%20(UML).png)
 
-[Requirements](https://github.com/topher-chris/RunApp/blob/master/Requirements.PNG)
+5.[Requirements](https://github.com/topher-chris/RunApp/blob/master/Requirements.PNG)
 
-[Wire Frame](https://github.com/topher-chris/RunApp/blob/master/WireFrame%20Page-1.jpg)
+6.[Wire Frame](https://github.com/topher-chris/RunApp/blob/master/WireFrame%20Page-1.jpg)
 
-[Test Requirements](https://github.com/topher-chris/RunApp/blob/master/Test%20Requirements.PNG)
+7.[Test Requirements](https://github.com/topher-chris/RunApp/blob/master/Test%20Requirements.PNG)
 
-[Test Table](https://github.com/topher-chris/RunApp/blob/master/Test%20Table.PNG)
+8.[Test Table](https://github.com/topher-chris/RunApp/blob/master/Test%20Table.PNG)
 
-[Protoype](https://github.com/topher-chris/RunApp/blob/master/Prototype.html)
+9.[Protoype](https://github.com/topher-chris/RunApp/blob/master/Prototype.html)
 
 [](https://github.com/topher-chris/RunApp/blob/master/MainPage.PNG)
 
