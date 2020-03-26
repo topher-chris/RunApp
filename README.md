@@ -7,7 +7,9 @@ This app was created because there was a need to locate suitable running locatio
 
 [Database Diagram](https://github.com/topher-chris/RunApp/blob/master/Database%20Diagram.jpg)
 
-[Database Diagram](https://github.com/topher-chris/RunApp/blob/master/User%20Stories.PNG)
+[User Stories](https://github.com/topher-chris/RunApp/blob/master/User%20Stories.PNG)
+
+[Use Cases](https://github.com/topher-chris/RunApp/blob/master/Use%20Cases.PNG)
 
 [Wire Frame](https://github.com/topher-chris/RunApp/blob/master/WireFrame%20Page-1.jpg)
 
@@ -29,13 +31,14 @@ ___
 
 ![alt text](https://github.com/topher-chris/RunApp/blob/master/User%20Stories.PNG)
 ___
-
-
+![alt text](https://github.com/topher-chris/RunApp/blob/master/Use%20Cases.PNG)
+___
 
 ![alt text](https://github.com/topher-chris/RunApp/blob/master/Use-Case%20Diagram%20(UML).png)
-
+___
 
 
 ![alt text](https://github.com/topher-chris/RunApp/blob/master/WireFrame%20Page-1.jpg)
+___
 
 ![alt text](https://github.com/topher-chris/RunApp/blob/master/WireFram-Page-2.jpg)
