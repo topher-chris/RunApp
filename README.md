@@ -83,4 +83,5 @@ ___
 ![alt text](https://github.com/topher-chris/RunApp/blob/master/MainPage.PNG)
 
 ___
+# Database Diagram
 ![alt text](https://github.com/topher-chris/RunApp/blob/master/Model%20Classes/Databse%20Diagram.PNG)
