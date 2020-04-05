@@ -23,6 +23,8 @@ This app was created because there was a need to locate suitable running locatio
 
 9.[Protoype](https://github.com/topher-chris/RunApp/blob/master/Prototype.html)
 
+10.[Database Diagram](https://github.com/topher-chris/RunApp/blob/master/Model%20Classes/Databse%20Diagram.PNG)
+
 [](https://github.com/topher-chris/RunApp/blob/master/MainPage.PNG)
 
 
@@ -79,3 +81,6 @@ ___
 ___
 
 ![alt text](https://github.com/topher-chris/RunApp/blob/master/MainPage.PNG)
+
+___
+![alt text](https://github.com/topher-chris/RunApp/blob/master/Model%20Classes/Databse%20Diagram.PNG)
