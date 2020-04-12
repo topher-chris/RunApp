@@ -5,9 +5,9 @@ This app was created because there was a need to locate suitable running locatio
 # Table of Contents
 
 
-1.[Database Diagram](https://github.com/topher-chris/RunApp/blob/master/Database%20Diagram.jpg)
+1.[Database Diagram](#Database-Diagram)
 
-2.[User Stories](https://github.com/topher-chris/RunApp/blob/master/User%20Stories.PNG)
+2.[User Stories](#User-Stories)
 
 3.[Use Cases](https://github.com/topher-chris/RunApp/blob/master/Use%20Cases.PNG)
 
