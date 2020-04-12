@@ -27,7 +27,7 @@ This app was created because there was a need to locate suitable running locatio
 
 [](https://github.com/topher-chris/RunApp/blob/master/MainPage.PNG)
 
-11.[Database Integration](# Database Integration)
+11.[Database Integration](https://github.com/topher-chris/RunApp/tree/master/images)
 
 
 
