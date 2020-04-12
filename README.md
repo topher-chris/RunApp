@@ -21,9 +21,9 @@ This app was created because there was a need to locate suitable running locatio
 
 8.[Test Table](https://github.com/topher-chris/RunApp/blob/master/Test%20Table.PNG)
 
-9.[Protoype](https://github.com/topher-chris/RunApp/blob/master/Prototype.html)
+9.[Protoype](#Prototype)
 
-10.[Database Diagram](https://github.com/topher-chris/RunApp/blob/master/Model%20Classes/Databse%20Diagram.PNG)
+10.[Database Diagram](#Database-Diagram)
 
 [](https://github.com/topher-chris/RunApp/blob/master/MainPage.PNG)
 
