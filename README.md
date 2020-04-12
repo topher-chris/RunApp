@@ -9,17 +9,17 @@ This app was created because there was a need to locate suitable running locatio
 
 2.[User Stories](#User-Stories)
 
-3.[Use Cases](https://github.com/topher-chris/RunApp/blob/master/Use%20Cases.PNG)
+3.[Use Cases](#Use-Cases)
 
-4.[Use Case Diagram](https://github.com/topher-chris/RunApp/blob/master/Use-Case%20Diagram%20(UML).png)
+4.[Use Case Diagram](#Use-Case-Diagram)
 
-5.[Requirements](https://github.com/topher-chris/RunApp/blob/master/Requirements.PNG)
+5.[Requirements](#Requirements)
 
-6.[Wire Frame](https://github.com/topher-chris/RunApp/blob/master/WireFrame%20Page-1.jpg)
+6.[Wire Frame](#Wire-Frame)
 
-7.[Test Requirements](https://github.com/topher-chris/RunApp/blob/master/Test%20Requirements.PNG)
+7.[Test Requirements](#Test-Requirements)
 
-8.[Test Table](https://github.com/topher-chris/RunApp/blob/master/Test%20Table.PNG)
+8.[Test Table](#Test-Table)
 
 9.[Protoype](#Prototype)
 
