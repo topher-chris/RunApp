@@ -27,7 +27,7 @@ This app was created because there was a need to locate suitable running locatio
 
 [](https://github.com/topher-chris/RunApp/blob/master/MainPage.PNG)
 
-11.[Database Integration](https://github.com/topher-chris/RunApp/blob/master/images/SSMS.PNG?raw=true)
+11.[Database Integration](# Database Integration)
 
 
 
@@ -90,6 +90,8 @@ ___
 
 ___
 # Database Integration
+___
+# Database Stored In SSMS
 ![alt text](https://github.com/topher-chris/RunApp/blob/master/images/SSMS.PNG?raw=true)
 
 # Data Displayed On Page
