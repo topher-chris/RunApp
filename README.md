@@ -87,3 +87,7 @@ ___
 ___
 # Database Diagram
 ![alt text](https://github.com/topher-chris/RunApp/blob/master/Model%20Classes/Databse%20Diagram.PNG)
+
+___
+# Database Integration
+![alt text](https://github.com/topher-chris/RunApp/blob/master/images/SSMS.PNG?raw=true)
