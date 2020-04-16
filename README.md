@@ -46,7 +46,7 @@ ___
 
 ___
 # Use Case Diagram
-![alt text](https://github.com/topher-chris/RunApp/blob/master/Use-Case%20Diagram%20(UML).png)
+![alt text](https://github.com/topher-chris/RunApp/blob/master/Prototype%20Images/Use-Case%20Diagram%20(UML).png?raw=true)
 
 ___
 # Requirements
