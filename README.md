@@ -50,7 +50,7 @@ ___
 
 ___
 # Requirements
-![alt text](https://github.com/topher-chris/RunApp/blob/master/Requirements.PNG)
+![alt text](https://github.com/topher-chris/RunApp/blob/master/Prototype%20Images/Requirements.PNG)
 
 ___
 # Wire Frames
