@@ -63,26 +63,26 @@ ___
 ___
 # Test Requirements 
 
-![alt text](https://github.com/topher-chris/RunApp/blob/master/Test%20Requirements.PNG)
+![alt text](https://github.com/topher-chris/RunApp/blob/master/Prototype%20Images/Test%20Requirements.PNG)
 
 ___
 # Test Table
-![alt text](https://github.com/topher-chris/RunApp/blob/master/Test%20Table.PNG)
+![alt text](https://github.com/topher-chris/RunApp/blob/master/Prototype%20Images/Test%20Table.PNG)
 
 ___
 # Prototype
 
-![alt text](https://github.com/topher-chris/RunApp/blob/master/Prototype1.PNG)
+![alt text](https://github.com/topher-chris/RunApp/blob/master/Prototype%20Images/Prototype1.PNG)
 
 ___
-![alt text](https://github.com/topher-chris/RunApp/blob/master/Prototype2.PNG)
+![alt text](https://github.com/topher-chris/RunApp/blob/master/Prototype%20Images/Prototype2.PNG)
 ___
 
-![alt text](https://github.com/topher-chris/RunApp/blob/master/Prototype3.PNG)
+![alt text](https://github.com/topher-chris/RunApp/blob/master/Prototype%20Images/Prototype3.PNG)
 
 ___
-
-![alt text](https://github.com/topher-chris/RunApp/blob/master/MainPage.PNG)
+# New Prototype
+![alt text](https://github.com/topher-chris/RunApp/blob/master/Prototype%20Images/MainPage.PNG)
 
 ___
 # Database Diagram
