@@ -5,7 +5,7 @@ This app was created because there was a need to locate suitable running locatio
 # Table of Contents
 
 
-1.[Database Diagram](#Database-Diagram)
+1.[Entity Relational Diagram](#Database-Diagram)
 
 2.[User Stories](#User-Stories)
 
