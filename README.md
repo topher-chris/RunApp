@@ -54,11 +54,11 @@ ___
 
 ___
 # Wire Frames
-![alt text](https://github.com/topher-chris/RunApp/blob/master/WireFrame%20Page-1.jpg)
+![alt text](https://github.com/topher-chris/RunApp/blob/master/Prototype%20Images/WireFrame%20Page-1.jpg)
 
 ___
 
-![alt text](https://github.com/topher-chris/RunApp/blob/master/WireFram-Page-2.jpg)
+![alt text](https://github.com/topher-chris/RunApp/blob/master/Prototype%20Images/WireFram-Page-2.jpg)
  
 ___
 # Test Requirements 
