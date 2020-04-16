@@ -38,7 +38,7 @@ This app was created because there was a need to locate suitable running locatio
 
 ___
 # User Stories
-![alt text](https://github.com/topher-chris/RunApp/blob/master/User%20Stories.PNG)
+![alt text](https://github.com/topher-chris/RunApp/blob/master/Prototype%20Images/User%20Stories.PNG)
 
 ___
 # Use Cases
