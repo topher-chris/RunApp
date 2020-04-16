@@ -42,7 +42,7 @@ ___
 
 ___
 # Use Cases
-![alt text](https://github.com/topher-chris/RunApp/blob/master/Use%20Cases.PNG)
+![alt text](https://github.com/topher-chris/RunApp/blob/master/Prototype%20Images/Use%20Cases.PNG?raw=true)
 
 ___
 # Use Case Diagram
