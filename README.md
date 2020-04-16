@@ -34,7 +34,7 @@ This app was created because there was a need to locate suitable running locatio
 
 
 # Entity Relational Diagram
-![alt text](https://github.com/topher-chris/RunApp/blob/master/Database%20Diagram.jpg)
+![alt text](https://github.com/topher-chris/RunApp/blob/master/Prototype%20Images/Database%20Diagram.jpg?raw=true)
 
 ___
 # User Stories
