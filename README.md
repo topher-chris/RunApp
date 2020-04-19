@@ -29,7 +29,7 @@ This app was created because there was a need to locate suitable running locatio
 
 11.[Database Integration](#Database-Integration)
 
-12.[Sprint Planning](#Sprint-Planning)  ![Sprint Board](https://github.com/users/topher-chris/projects/1)
+12.[Sprint Planning](#Sprint-Planning)  [Sprint Board](https://github.com/users/topher-chris/projects/1)
 
 
 
