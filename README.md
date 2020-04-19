@@ -28,6 +28,7 @@ This app was created because there was a need to locate suitable running locatio
 [](https://github.com/topher-chris/RunApp/blob/master/MainPage.PNG)
 
 11.[Database Integration](#Database-Integration)
+12.[Sprint Planning](#Sprint-Planning)
 
 
 
@@ -100,3 +101,13 @@ ___
 ![alt text](https://github.com/topher-chris/RunApp/blob/master/images/Data%20Input.PNG)
 # Data Changed Displayed On Page
 ![alt text](https://github.com/topher-chris/RunApp/blob/master/images/After%20Input.PNG)
+
+___
+
+# Sprint Planning
+# Issues
+![alt text](https://github.com/topher-chris/RunApp/blob/master/Prototype%20Images/Issues.PNG)
+
+# Project Board)
+![alt text](https://github.com/topher-chris/RunApp/blob/master/Prototype%20Images/Sprint.PNG)
+
