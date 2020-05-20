@@ -33,7 +33,8 @@ Technologies used : Azure, Entity Framework, C#, SQL, ASP.NET, Google Maps API, 
 11.[Database Integration](#Database-Integration)
 
 12.[Sprint Planning](#Sprint-Planning)   Link To.[Sprint Board](https://github.com/users/topher-chris/projects/1)
-13.[Testing](#RTM) 
+
+13.[RTM](#RTM) 
 
 
 
